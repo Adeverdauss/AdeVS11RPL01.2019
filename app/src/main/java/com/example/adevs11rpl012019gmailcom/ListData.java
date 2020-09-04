@@ -23,6 +23,7 @@ public class ListData extends AppCompatActivity {
         recyclerView = (RecyclerView) findViewById(R.id.rvdata);
         addData();
     }
+
     void addData() {
         //offline, isi data offline dulu
         DataArrayList = new ArrayList<>();
