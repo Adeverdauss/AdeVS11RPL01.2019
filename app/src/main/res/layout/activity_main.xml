@@ -25,7 +25,7 @@
         android:layout_height="120dp"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
-        android:background="@drawable/raph1"/>
+        android:src="@drawable/raph1"/>
 
     <EditText
         android:id="@+id/username"
